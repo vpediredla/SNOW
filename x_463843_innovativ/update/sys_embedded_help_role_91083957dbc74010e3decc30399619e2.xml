@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_463843_innovativ.my_custom_table_vijaya_user" name="x_463843_innovativ.my_custom_table_vijaya_user">5d083957dbc74010e3decc30399619dd</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-24 01:11:27</sys_created_on>
+        <sys_id>91083957dbc74010e3decc30399619e2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>5d083957dbc74010e3decc30399619dd</sys_name>
+        <sys_package display_value="Innovative" source="x_463843_innovativ">8c073517dbc74010e3decc30399619ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovative">8c073517dbc74010e3decc30399619ec</sys_scope>
+        <sys_update_name>sys_embedded_help_role_91083957dbc74010e3decc30399619e2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-24 01:11:27</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
