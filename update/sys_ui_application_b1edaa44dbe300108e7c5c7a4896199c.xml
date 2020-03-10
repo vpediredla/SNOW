@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Application</name>
+        <order>100</order>
+        <roles>asset,sam,inventory_admin,model_manager,category_manager</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-09 23:18:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b1edaa44dbe300108e7c5c7a4896199c</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Application</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt Application" source="x_458782_needit_ap">a00deac0dbe300108e7c5c7a48961929</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Application">a00deac0dbe300108e7c5c7a48961929</sys_scope>
+        <sys_update_name>sys_ui_application_b1edaa44dbe300108e7c5c7a4896199c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-09 23:43:15</sys_updated_on>
+    </sys_ui_application>
+</record_update>

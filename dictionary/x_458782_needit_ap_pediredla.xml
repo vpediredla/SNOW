@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="NeedIt" max_length="40" name="x_458782_needit_ap_pediredla" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" default="3- moderate" label="Priority" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="1- Critical" sequence="0" value="1- critical"/>
+                <element inactive_on_update="false" label="2- High" sequence="1" value="2- high"/>
+                <element inactive_on_update="false" label="3- Moderate" sequence="2" value="3- moderate"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="open" label="Status" max_length="40" name="u_choice_2" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Open" sequence="0" value="open"/>
+                <element inactive_on_update="false" label="Pending" sequence="1" value="pending"/>
+                <element inactive_on_update="false" label="Closed" sequence="2" value="closed"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="small" label="Category" max_length="40" name="u_choice_3" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Big" sequence="0" value="big"/>
+                <element inactive_on_update="false" label="Medium" sequence="1" value="medium"/>
+                <element inactive_on_update="false" label="Small" sequence="2" value="small"/>
+            </choice>
+        </element>
+    </element>
+</database>

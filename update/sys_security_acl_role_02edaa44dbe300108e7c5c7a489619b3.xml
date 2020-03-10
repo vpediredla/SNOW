@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-09 23:18:01</sys_created_on>
+        <sys_id>02edaa44dbe300108e7c5c7a489619b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_458782_needit_ap_pediredla.x_458782_needit_ap.needit_user</sys_name>
+        <sys_package display_value="NeedIt Application" source="x_458782_needit_ap">a00deac0dbe300108e7c5c7a48961929</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Application">a00deac0dbe300108e7c5c7a48961929</sys_scope>
+        <sys_security_acl display_value="x_458782_needit_ap_pediredla">82edaa44dbe300108e7c5c7a489619b0</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_02edaa44dbe300108e7c5c7a489619b3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-09 23:18:01</sys_updated_on>
+        <sys_user_role display_value="x_458782_needit_ap.needit_user" name="x_458782_needit_ap.needit_user">29ed6644dbe300108e7c5c7a48961972</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
